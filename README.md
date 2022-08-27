@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there, I'm Abdullah Saeed 👋 
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahSaeed1211&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+  <p>
 
-<!--
-**AbdullahSaeed1211/AbdullahSaeed1211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I'm a Student//Coding Enthusiast
+- 🖥️ Aspiring Programmer
+- 🥅 2022 Goals:Learn competitive C++ ,Data Structures and Algoritms & Learn more about web3
+- 🔭 I’m currently learning C++/DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me at:
+<p>
+<a href="https://linkedin.com/in/abdullah-saeed1211"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/Abdullah_1724"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+
+
+
+[linkedin]: www.linkedin.com/in/abdullah-saeed1211
+[twitter]: https://twitter.com/Abdullah_1724
