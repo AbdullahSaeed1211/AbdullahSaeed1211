@@ -6,8 +6,8 @@
 
 ## I'm a Student//Coding Enthusiast
 - 🖥️ Aspiring Programmer
-- 🥅 2022 Goals:Learn competitive C++ ,Data Structures and Algoritms & Learn more about web3
-- 🔭 I’m currently learning C++/DSA
+- 🥅 2022 Goals:Become a fullstack web developer
+- 🔭 I’m currently learning React and Web Design
 ### Connect with me at:
 <p>
 <a href="https://linkedin.com/in/abdullah-saeed1211"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the badge&logo=linkedin&logoColor=white"/></a>
