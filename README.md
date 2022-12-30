@@ -6,7 +6,7 @@
 
 ## I'm a Student//Coding Enthusiast
 - 🖥️ Aspiring Programmer
-- 🥅 2022 Goals:Become a fullstack web developer
+- 🥅 2023 Goals:Become a fullstack web developer
 - 🔭 I’m currently learning React and Web Design
 ### Connect with me at:
 <p>
