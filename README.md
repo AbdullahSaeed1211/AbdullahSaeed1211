@@ -18,4 +18,4 @@
 
 
 [linkedin]: www.linkedin.com/in/abdullah-saeed1211
-[twitter]: https://twitter.com/Abdullah_1724
+
