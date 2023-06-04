@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Abdullah Saeed
-#### I am a Web Developer & Designer
+#### I am a Software Development Engineer
 
 
-I am actively expanding my skillset by learning MERN stack development to offer more comprehensive solutions to clients. In my free time, I am a passionate reader and fitness enthusiast, always striving to improve myself both professionally and personally.
+I am actively expanding my skillset by learning MERN stack development, Typescript,DSA . In my free time, I am a passionate reader and fitness enthusiast, always striving to improve myself both professionally and personally.
 
 <p>
   <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahSaeed1211&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
@@ -11,7 +11,7 @@ I am actively expanding my skillset by learning MERN stack development to offer 
 Skills: / REACT / JS / HTML / CSS
 
 ## Goals
-- 🥅 2023 Goals:Become a fullstack web developer
+- 🥅 2023 Goals:Become a Software Development Engineer
 - 🌱 I’m currently learning MERN Stack Development and UI Design 
 - 🔭 I’m currently working on learning React and Web Design 
 
