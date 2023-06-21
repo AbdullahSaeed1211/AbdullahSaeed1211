@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Abdullah Saeed
 #### I am a Software Developer
 
-<a href="[#](https://portfolio-eight-zeta-54.vercel.app/)" class="button big"> visit my portfolio </a>
+<a href="https://portfolio-eight-zeta-54.vercel.app/" class="button big"> visit my portfolio </a>
 
 I am actively expanding my skillset by learning MERN stack development, Typescript,DSA . In my free time, I am a passionate reader and fitness enthusiast, always striving to improve myself both professionally and personally.
 
