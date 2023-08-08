@@ -5,9 +5,7 @@
 
 I am actively expanding my skillset by learning MERN stack development, Typescript,DSA . In my free time, I am a passionate reader and fitness enthusiast, always striving to improve myself both professionally and personally.
 
-<p>
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=AbdullahSaeed1211&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=abdullahsaeed1211&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 Skills: / REACT / JS / HTML / CSS
 
