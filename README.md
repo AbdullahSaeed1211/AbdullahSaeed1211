@@ -20,8 +20,10 @@
 
 📚 Avid Learner: When I'm not coding, you'll often find me with my nose buried in non-fiction books, exploring the realms of knowledge beyond programming.
 
+📝 Documentation Advocate: I'm also passionate about reading and writing clear and concise documentation, making complex concepts accessible to everyone.
+
 💪 Fitness Aficionado: Just as I strive for excellence in my coding journey, I'm committed to keeping my body healthy and strong through regular exercise.
 
-## Connect with Me
+## Portfolio and Connect with Me
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/abdullah-saeed1211) to discuss coding, projects, opportunities, or just to share insights about the world of technology and beyond.
+Explore my projects on [my personal portfolio website](https://portfolio-eight-zeta-54.vercel.app) and connect with me on [LinkedIn](https://linkedin.com/in/abdullah-saeed1211). 
