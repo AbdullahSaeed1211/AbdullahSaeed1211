@@ -26,4 +26,4 @@
 
 ## Portfolio and Connect with Me
 
-Explore my projects on [my personal portfolio website](https://portfolio-eight-zeta-54.vercel.app) and connect with me on [LinkedIn](https://linkedin.com/in/abdullah-saeed1211). 
+Explore my projects on [my personal portfolio website](https://portfolio-eight-zeta-54.vercel.app) and connect with me on [LinkedIn](https://linkedin.com/in/abdullah-saeed1211) 
