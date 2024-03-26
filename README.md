@@ -1,33 +1,33 @@
-<h1> Abdullah Saeed </h2>
-<h3>A passionate software developer from India</h3>
-
-👋 Hello, I'm Abdullah Saeed, a Computer Science and Engineering student with a passion for coding, web development, and aspiring to become a Software Development Engineer (SDE).
-
-## Aspirations
-
-🚀 Aspiring SDE: My trajectory is set towards becoming a Software Development Engineer. My focus is on mastering the art of algorithms, data structures, and problem-solving, ensuring I'm equipped to tackle complex challenges head-on.
-
-🌐 Web Developer: Armed with Next.js, Tailwind CSS, MongoDB, React.js, Prisma, and Supabase, I craft immersive and elegant web experiences. My projects blend technical precision with creative flair.
+<h1> Abdullah Saeed </h1>
+<h6>Frontend Dev & Aspiring SDE <br></h6>
+I am a Computer Science & Engineering student
+## What I Offer
+- Proficiency in Next.js, Tailwind CSS, MongoDB, and React.js.
+- A keen eye for detail and a commitment to producing well-documented, high-quality code.
+- Strong collaborative skills, emphasizing clear communication and teamwork.
+- A passion for learning and a dedication to personal and professional growth.
 
 ## Goals and Priorities
 
-🎯 To become a skilled SDE: I'm committed to honing my coding skills and problem-solving abilities, aligning with my goal of contributing meaningfully to software development projects.
+- **Skill Development:** My primary focus is on becoming a skilled Software Development Engineer (SDE) by continuously honing my coding skills and problem-solving abilities. I am dedicated to aligning my efforts with the goal of making meaningful contributions to software development projects.
 
-📜 Building My Resume: I'm actively seeking opportunities to work on impactful projects, expand my portfolio, and collaborate with fellow enthusiasts and professionals.
+- **Portfolio Enhancement:** Actively seeking opportunities to work on impactful projects, expand my portfolio, and collaborate with fellow enthusiasts and professionals to enhance my resume and showcase my capabilities.
 
-🛠️ Project Enthusiast: My creative energy is channeled into building real-world projects that showcase my technical prowess and passion for innovation.
+- **Project Enthusiasm:** Channeling my creative energy into building real-world projects that not only demonstrate my technical prowess but also reflect my passion for innovation. I am enthusiastic about tackling challenging problems and implementing innovative solutions.
+
 
 ## Beyond Code
 
-📚 Avid Learner: When I'm not coding, you'll often find me with my nose buried in non-fiction books, exploring the realms of knowledge beyond programming.
+- **Continuous Learning:** Outside of coding, I am an avid learner, delving into the realms of non-fiction literature to expand my knowledge beyond programming and stay abreast of emerging trends and ideas.
 
-📝 Documentation Advocate: I'm also passionate about reading and writing clear and concise documentation, making complex concepts accessible to everyone.
+- **Documentation Advocacy:** I am passionate about promoting clear and concise documentation, believing it to be essential for making complex concepts accessible to everyone. I actively engage in reading and writing documentation to facilitate better understanding and collaboration.
 
-💪 Fitness Aficionado: Just as I strive for excellence in my coding journey, I'm committed to keeping my body healthy and strong through regular exercise.
+- **Commitment to Fitness:** Just as I am dedicated to excellence in my coding journey, I prioritize maintaining my physical well-being through regular exercise and fitness activities. I believe a healthy body is crucial for sustaining productivity and achieving long-term success.
+
 
 ## Portfolio and Connect with Me
 
-Explore my projects on [my personal portfolio website](https://portfolio-eight-zeta-54.vercel.app) and find my [important Links](https://linktr.ee/AbdullahSaeed1211)
+Explore my projects at my [Portfolio](https://abdullahsaeed.vercel.app/) and get to know more about me [Here](https://bento.me/abdullahsaeed).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
