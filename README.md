@@ -1,6 +1,6 @@
-<h1> Abdullah Saeed </h1>
-<h6>Frontend Dev & Aspiring SDE <br></h6>
-I am a Computer Science & Engineering student
+<h1 align='center'> Abdullah Saeed </h1>
+<h6 align='center'>Frontend Dev | Aspiring SDE | Computer Science & Engineering student <br></h6>
+
 ## What I Offer
 - Proficiency in Next.js, Tailwind CSS, MongoDB, and React.js.
 - A keen eye for detail and a commitment to producing well-documented, high-quality code.
