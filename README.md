@@ -13,16 +13,16 @@
 
 - **Portfolio Enhancement:** Actively seeking opportunities to work on impactful projects, expand my portfolio, and collaborate with fellow enthusiasts and professionals to enhance my resume and showcase my capabilities.
 
-- **Project Enthusiasm:** Channeling my creative energy into building real-world projects that not only demonstrate my technical prowess but also reflect my passion for innovation. I am enthusiastic about tackling challenging problems and implementing innovative solutions.
+- **Project Enthusiasm:** Actively building real-world projects that not only demonstrate my technical prowess but also reflect my passion for innovation. I am looking forward to tackling challenging problems and implementing innovative solutions.
 
 
 ## Beyond Code
 
-- **Continuous Learning:** Outside of coding, I am an avid learner, delving into the realms of non-fiction literature to expand my knowledge beyond programming and stay abreast of emerging trends and ideas.
+- **Continuous Learning:** Outside of coding, I am love reading non-ficition and am trying to get into fiction as well.
 
 - **Documentation Advocacy:** I am passionate about promoting clear and concise documentation, believing it to be essential for making complex concepts accessible to everyone. I actively engage in reading and writing documentation to facilitate better understanding and collaboration.
 
-- **Commitment to Fitness:** Just as I am dedicated to excellence in my coding journey, I prioritize maintaining my physical well-being through regular exercise and fitness activities. I believe a healthy body is crucial for sustaining productivity and achieving long-term success.
+- **Commitment to Fitness:**  I prioritize maintaining my physical well-being through regular exercise and fitness activities. I believe a healthy body is crucial for sustaining productivity and achieving long-term success.
 
 
 ## Portfolio and Connect with Me </h3> 
