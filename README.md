@@ -8,17 +8,6 @@
   <a href="https://github.com/AbdullahSaeed1211">GitHub</a>
 </p>
 
-## 💻 Technical Expertise
-
-```typescript
-const skills = {
-  frontend: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'Shadcn UI', 'Radix UI', 'Framer Motion'],
-  backend: ['Node.js', 'Express', 'Prisma', 'MongoDB', 'Supabase', 'Firebase'],
-  ai: ['Gemini 1.5', 'Mistral OCR API', 'LangChain', 'RAG Pipelines', 'TensorFlow.js'],
-  tools: ['Git', 'Vercel', 'Figma', 'REST APIs', 'Stripe']
-};
-```
-
 ## 🔍 What I Offer
 
 - **Modern Web Development**: Building scalable applications with Next.js, React, and TypeScript
