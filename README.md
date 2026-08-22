@@ -18,8 +18,6 @@ Currently working across **SaaS, AI, infra, and performance**.
 
 `Next.js` `React` `TypeScript` `Vue` `Nuxt` `Prisma` `Postgres` `Supabase` `Cloudflare`
 
-Recent win: **3.72s → ~270ms** production response time.
-
 MSCS @ **Georgia Tech**.
 
 <p align="center">
