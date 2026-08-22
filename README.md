@@ -1,6 +1,6 @@
-<h1 align="center">Abdullah Saeed</h1>
+<h1 align="left">Abdullah Saeed</h1>
 
-<p align="center">
+<p align="left">
   Full-Stack Engineer · AI · Systems
 </p>
 
@@ -18,6 +18,6 @@ Currently working across **SaaS, AI, infra, and performance**.
 
 MSCS @ **Georgia Tech**.
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahsaeed1211&theme=transparent&hide_border=true" />
 </p>
