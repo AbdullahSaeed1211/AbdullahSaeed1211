@@ -14,7 +14,7 @@ I build and scale products.
 
 Currently working across **SaaS, AI, infra, and performance**.
 
-`Next.js` `React` `TypeScript` `Vue` `Nuxt` `Prisma` `Postgres` `Supabase` `Cloudflare`
+`Next.js` `React` `TypeScript` `Vue` `Nuxt` `Prisma` `Postgres` `Supabase` `Cloudflare` `Mongo` `Laravel`
 
 MSCS @ **Georgia Tech**.
 
