@@ -4,13 +4,11 @@
   Full-Stack Engineer · AI · Systems
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://abdullahsaeed.me">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/abdullah-saeed1211/">LinkedIn</a> ·
   <a href="mailto:abdullah.saeed1724@gmail.com">Email</a>
 </p>
-
----
 
 I build and scale products.
 
